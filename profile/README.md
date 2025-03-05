@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yaguang Wang 2</h1>
+<h1 align="center">Hi 👋, I'm Yaguang Wang </h1>
 <h3 align="center">A developer from China </h3>
 
 <p align="left">
